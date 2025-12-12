@@ -3,7 +3,7 @@ Ce projet est un jeu inspiré de Candy Crush. Le jeu propose une grille de bonbo
 Chaque combinaison rapporte des points, et des bonus spéciaux apparaissent pour des alignements particuliers.
 
 # Langages utilisés :
-C
+C uniquement
 
 # Fonctionnalités :
 Grille interactive avec bonbons générés aléatoirement
